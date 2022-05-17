@@ -7,4 +7,4 @@ Some guidelines for development environment set up
 2. Computer OS: we prefer Linux system, like Ubuntu. You can install Ubuntu VM if you have Mac or Windows. [Using Ubuntu VM on virutalbox](https://ubuntu.com/tutorials/how-to-run-ubuntu-desktop-on-a-virtual-machine-using-virtualbox#1-overview)
 3. Python
   - Please use python virtual envrionment following this instruction: [install python virtual env](https://www.freecodecamp.org/news/virtualenv-with-virtualenvwrapper-on-ubuntu-18-04/)
-4.  
+
